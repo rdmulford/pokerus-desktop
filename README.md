@@ -3,7 +3,10 @@
 ## Quick Start
 
 ```sh
+nvm use
+yarn install
 yarn start
+# new terminal window
 yarn electron-dev
 ```
 
